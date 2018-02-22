@@ -1,1 +1,39 @@
-<svg id="Icon10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300"><defs><style>.cls-1,.cls-4{fill:#e3f7fc;}.cls-2,.cls-3{fill:none;}.cls-2{stroke:#319ee8;stroke-width:25px;}.cls-2,.cls-3,.cls-4{stroke-miterlimit:10;}.cls-3{stroke:#a007a0;stroke-width:19px;}.cls-4{stroke:red;stroke-linecap:round;stroke-width:12px;}</style></defs><title>rogers_brendan_icons</title><circle id="background10" class="cls-1" cx="150.5" cy="149.5" r="121.5"/><circle id="border10" class="cls-2" cx="150.5" cy="149.5" r="121.5"/><circle id="clockFace" class="cls-3" cx="151" cy="150" r="65"/><line id="minuteArm" class="cls-4" x1="150" y1="152" x2="150" y2="75"/><line id="hourArm" class="cls-4" x1="151" y1="150" x2="113.5" y2="179.5"/></svg>
+<svg id="Icon10" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: #e3f7fc;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #319ee8;
+        stroke-width: 25px;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke: #a007a0;
+        stroke-width: 19px;
+      }
+
+      .cls-4 {
+        stroke: red;
+        stroke-linecap: round;
+        stroke-width: 12px;
+      }
+    </style>
+  </defs>
+  <title>rogers_brendan_icons</title>
+  <circle id="background10" class="cls-1" cx="150.5" cy="149.5" r="121.5"/>
+  <circle id="border10" class="cls-2" cx="150.5" cy="149.5" r="121.5"/>
+  <circle id="clockFace" class="cls-3" cx="151" cy="150" r="65"/>
+  <line id="minuteArm" class="cls-4" x1="150" y1="152" x2="150" y2="75"/>
+  <line id="hourArm" class="cls-4" x1="151" y1="150" x2="113.5" y2="179.5"/>
+</svg>
