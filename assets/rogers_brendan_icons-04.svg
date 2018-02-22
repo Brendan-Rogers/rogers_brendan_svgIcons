@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e3f7fc;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke: #319ee8;
+        stroke-width: 25px;
+      }
+
+      .cls-3 {
+        fill: red;
+      }
+
+      .cls-4 {
+        stroke: #a007a0;
+        stroke-width: 15px;
+      }
+    </style>
+  </defs>
+  <title>rogers_brendan_icons</title>
+  <g id="Icon_4" data-name="Icon 4">
+    <circle id="background4" class="cls-1" cx="151.5" cy="150.5" r="121.5"/>
+    <circle id="border4" class="cls-2" cx="151.5" cy="150.5" r="121.5"/>
+    <path id="padLeft" class="cls-3" d="M77,145s29-6,32,10,15,33-20,43"/>
+    <path id="padRight" class="cls-3" d="M226.42,144s-29-6-32,10-15,33,20,43"/>
+    <path id="headphone" class="cls-4" d="M214,198.69a76,76,0,1,0-123.92,1.64"/>
+  </g>
+</svg>

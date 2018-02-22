@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e3f7fc;
+      }
+
+      .cls-2, .cls-7 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke: #319ee8;
+        stroke-width: 25px;
+      }
+
+      .cls-3 {
+        fill: red;
+      }
+
+      .cls-4 {
+        fill: #d60000;
+      }
+
+      .cls-5 {
+        fill: #ff4343;
+      }
+
+      .cls-6 {
+        fill: #fc2222;
+      }
+
+      .cls-7 {
+        stroke: #a007a0;
+        stroke-linecap: round;
+        stroke-width: 10px;
+      }
+    </style>
+  </defs>
+  <title>rogers_brendan_icons</title>
+  <g id="Icon8">
+    <circle id="background8" class="cls-1" cx="151.5" cy="150.5" r="121.5"/>
+    <circle id="border8" class="cls-2" cx="151.5" cy="150.5" r="121.5"/>
+    <polygon id="armLeft" class="cls-3" points="151.95 150.14 133.95 125.84 78.15 125.84 123.15 159.14 151.95 150.14"/>
+    <polygon id="starHead" class="cls-4" points="151.95 150.14 133.95 125.84 151.95 72.74 169.05 125.84 151.95 150.14"/>
+    <polygon id="armRight" class="cls-3" points="151.95 150.14 169.05 125.84 224.85 125.84 179.85 159.14 151.95 150.14"/>
+    <polygon id="legLeft" class="cls-5" points="151.95 150.14 123.15 159.14 106.05 212.24 151.95 178.94 151.95 150.14"/>
+    <polygon id="legRight" class="cls-6" points="151.95 150.14 151.95 178.94 196.95 212.24 179.85 159.14 151.95 150.14"/>
+    <polygon id="starOutline" class="cls-7" points="151.5 72.51 168.83 125.84 224.9 125.84 179.54 158.8 196.87 212.13 151.5 179.17 106.14 212.13 123.46 158.8 78.1 125.84 134.17 125.84 151.5 72.51"/>
+  </g>
+</svg>

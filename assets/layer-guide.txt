@@ -1,0 +1,135 @@
+Icon1
+	border1
+	background1
+	outline
+	dot
+
+	REPLACE CSS
+		.cls-1	>  .aaa
+		.cls-2	>  .aab
+		.cls-3 	>  .aac
+		.cls-4	>  .aad
+
+Icon2
+	border2
+	background2
+	dot1, dot2, dot3
+	phone
+
+	REPLACE CSS
+		.cls-1	>  .baa
+		.cls-2	>  .bab
+		.cls-3 	>  .bac
+		.cls-4	>  .bad
+
+Icon3
+	border3
+	background3
+	eyeRed
+	eyeBlack
+	eyeWhite
+	eyeOutline
+
+	REPLACE CSS
+		.cls-1	>  .daa
+		.cls-2	>  .dab
+		.cls-3 	>  .dac
+		.cls-4	>  .dad
+		.cls-5	>  .dae
+
+Icon4
+	border4
+	background4
+	headphone
+	padLeft
+	padRight
+
+	REPLACE CSS
+		.cls-1	>  .eaa
+		.cls-2	>  .eab
+		.cls-3 	>  .eac
+		.cls-4	>  .ead
+
+Icon5
+	border5
+	background5
+	noteRed
+	notePurple
+
+	REPLACE CSS
+		.cls-1	>  .faa
+		.cls-2	>  .fab
+		.cls-3 	>  .fac
+		.cls-4	>  .fad
+
+Icon6
+	border6
+	background6
+	puzzle
+	puzzleEye
+
+	REPLACE CSS
+		.cls-1	>  .gaa
+		.cls-2	>  .gab
+		.cls-3 	>  .gac
+		.cls-4	>  .gad
+
+Icon7
+	border7
+	background7
+	moon
+	sun
+	ray1, ray2, ray3
+
+	REPLACE CSS
+		.cls-1	>  .haa
+		.cls-2	>  .hab
+		.cls-3 	>  .hac
+		.cls-4	>  .had
+		.cls-5	>  .hae
+
+Icon8
+	border8
+	background8
+	starOutline
+	starHead
+	legRight
+	legLeft
+	armRight
+	armLeft
+
+	REPLACE CSS
+		.cls-1	>  .iaa
+		.cls-2	>  .iab
+		.cls-3 	>  .iac
+		.cls-4	>  .iad
+		.cls-5	>  .iae
+		.cls-6	>  .iaf
+		.cls-7	>  .iag
+Icon9
+	border9
+	background9
+	burst1, burst2
+
+	REPLACE CSS
+		.cls-1	>  .jaa
+		.cls-2	>  .jab
+		.cls-3 	>  .jac
+		.cls-4	>  .jad
+
+Icon10
+	border10
+	background10
+	clockFace
+	minuteArm
+	hourArm
+
+	REPLACE CSS
+		.cls-1	>  .kaa
+		.cls-2	>  .kab
+		.cls-3 	>  .kac
+		.cls-4	>  .kad
+
+
+The inline CSS was overriding itself, so I got to execute the incredibly mundane task of systematically renaming every SVG class. Fun!
+

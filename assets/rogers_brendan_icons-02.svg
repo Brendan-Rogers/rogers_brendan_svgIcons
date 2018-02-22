@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e3f7fc;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #319ee8;
+        stroke-miterlimit: 10;
+        stroke-width: 25px;
+      }
+
+      .cls-3 {
+        stroke: #a007a0;
+        stroke-linejoin: bevel;
+        stroke-width: 12px;
+      }
+
+      .cls-4 {
+        fill: red;
+      }
+    </style>
+  </defs>
+  <title>rogers_brendan_icons</title>
+  <g id="Icon2">
+    <circle id="background2" class="cls-1" cx="150" cy="150" r="121.5"/>
+    <circle id="border2" class="cls-2" cx="150" cy="150" r="121.5"/>
+    <path id="phone" class="cls-3" d="M117.5,181.5l-27,27L75,193s-21.5-17.5-.5-42.5C96.83,123.92,137,88,137,88s19.25-20.25,39.5,0,20,20.5,20,20.5h0L172,133s-12.5-17.5-25.5-6.5-30,30-30,30S102.5,169.5,117.5,181.5Z"/>
+    <ellipse id="dot1" class="cls-4" cx="180" cy="199" rx="13" ry="12.41"/>
+    <ellipse id="dot2" class="cls-4" cx="147" cy="198" rx="13" ry="12.41"/>
+    <ellipse id="dot3" class="cls-4" cx="213" cy="199" rx="13" ry="12.41"/>
+  </g>
+</svg>

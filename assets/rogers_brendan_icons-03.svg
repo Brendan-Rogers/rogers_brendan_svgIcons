@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e3f7fc;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke: #319ee8;
+        stroke-width: 25px;
+      }
+
+      .cls-3 {
+        fill: red;
+      }
+
+      .cls-4 {
+        stroke: #a007a0;
+        stroke-width: 15px;
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>rogers_brendan_icons</title>
+  <g id="Icon3">
+    <circle id="background3" class="cls-1" cx="152.5" cy="150.5" r="121.5"/>
+    <circle id="border3" class="cls-2" cx="150.5" cy="150.5" r="121.5"/>
+    <ellipse id="eyeRed" class="cls-3" cx="150" cy="150" rx="38" ry="36.27"/>
+    <ellipse id="eyeBlack" cx="150" cy="149" rx="19" ry="18.14"/>
+    <path id="eyeOutline" class="cls-4" d="M66,150s36-49,87-47,82,47,82,47-24.5,48.5-85.5,47.5S66,150,66,150Z"/>
+    <ellipse id="eyeWhite" class="cls-5" cx="165" cy="133" rx="9" ry="8.59"/>
+  </g>
+</svg>

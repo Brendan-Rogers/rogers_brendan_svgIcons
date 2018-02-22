@@ -1,0 +1,76 @@
+@charset "UTF-8";
+/* Css document */
+
+/* Tools */
+.displayNone
+{ display: none; }
+.hidden
+{ visibility: hidden; }
+.clearfix:after
+{
+	content: " ";
+	visibility: hidden;
+	display: block;
+	height: 0px;
+	clear: both;
+}
+
+/*Body Knowledge*/
+
+body
+{
+	background-color: #dfdfdf;
+}
+
+#container
+{
+	width: 920px;
+	margin: 0 auto;
+}
+
+.svgs
+{
+	transition: all 0.3s ease-in-out;
+	width: 70%;
+	margin-left: 15%;
+	padding-bottom: 50px;
+	float: left;
+	border-bottom: 3px dashed;
+}
+
+.svgs:hover
+{
+	width: 84%;
+	margin-left: 8%;
+}
+
+svg
+{
+	transition: all 0.3 ease-in-out;
+}
+
+svg:hover
+{
+	filter: drop-shadow(0 0 10px blue);
+}
+
+h1
+{
+	text-align: center;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 42px;
+}
+
+h2
+{
+	text-align: center;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bolder;
+	font-size: 88px;	
+}
+
+
+
+
+
