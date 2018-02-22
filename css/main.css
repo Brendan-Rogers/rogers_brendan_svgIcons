@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* Css document */
+
+/* Tools */
+.displayNone
+{ display: none; }
+.hidden
+{ visibility: hidden; }
+.clearfix:after
+{
+	content: " ";
+	visibility: hidden;
+	display: block;
+	height: 0px;
+	clear: both;
+}
+

@@ -1,0 +1,68 @@
+Icon1
+	border1
+	background1
+	outline
+	dot
+
+Icon2
+	border2
+	background2
+	dot1, dot2, dot3
+	phone
+
+Icon3
+	border3
+	background3
+	eyeRed
+	eyeBlack
+	eyeWhite
+	eyeOutline
+
+Icon4
+	border4
+	background4
+	headphone
+	padLeft
+	padRight
+
+Icon5
+	border5
+	background5
+	noteRed
+	notePurple
+
+Icon6
+	border6
+	background6
+	puzzle
+	puzzleEye
+
+Icon7
+	border7
+	background7
+	moon
+	sun
+	ray1, ray2, ray3
+
+Icon8
+	border8
+	background8
+	starOutline
+	starHead
+	legRight
+	legLeft
+	armRight
+	armLeft
+
+Icon9
+	border9
+	background9
+	burst1, burst2
+
+Icon10
+	border10
+	background10
+	clockFace
+	minuteArm
+	hourArm
+
